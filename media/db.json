@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "name": "Eduardo Koss",
+      "id": 2
+    },
+    {
+      "name": "Francisco Hoppe",
+      "id": 4
+    },
+    {
+      "name": "Miss Kristen Ruecker",
+      "id": 5
+    },
+    {
+      "name": "Dr. Angelo Feest I",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "title": "Tasty Granite Computer",
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "title": "Sleek Fresh Chicken",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "title": "Ergonomic Steel Mouse",
+      "userId": 4,
+      "id": 7
+    },
+    {
+      "title": "Electronic Rubber Keyboard",
+      "userId": 5,
+      "id": 9
+    },
+    {
+      "title": "Bespoke Plastic Keyboard",
+      "userId": 5,
+      "id": 10
+    },
+    {
+      "title": "Electronic Frozen Hat",
+      "userId": 5,
+      "id": 11
+    },
+    {
+      "title": "Gorgeous Concrete Tuna",
+      "userId": 5,
+      "id": 13
+    },
+    {
+      "title": "Intelligent Frozen Tuna",
+      "userId": 6,
+      "id": 14
+    },
+    {
+      "title": "Rustic Steel Chips",
+      "userId": 6,
+      "id": 15
+    },
+    {
+      "title": "Licensed Frozen Bacon",
+      "userId": 2,
+      "id": 16
+    },
+    {
+      "title": "Ergonomic Plastic Car",
+      "userId": 2,
+      "id": 17
+    },
+    {
+      "title": "Ergonomic Metal Pizza",
+      "userId": 2,
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=86936",
+      "albumId": 5,
+      "id": 1
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=23180",
+      "albumId": 5,
+      "id": 3
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=99042",
+      "albumId": 5,
+      "id": 6
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=45198",
+      "albumId": 5,
+      "id": 7
+    }
+  ]
+}
